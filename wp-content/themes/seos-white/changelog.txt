@@ -1,0 +1,24 @@
+ Seos White changelog
+
+= Version 2.1.1 June 22 2018 =
+* CHANGE: The Latest WP Version
+
+= Version 2.1.0 March 10 2018 =
+* ADDED: Read More Button
+* ADDED: Post Class
+
+= Version 2.0.0 March 09 2018 =
+* ADDED: Premium Options
+* ADDED: Preview Demo
+* ADDED: Translation
+
+= Version 1.0.9 March 14 2016 =
+* ADDED: Default Slide Text
+* ADDED: Deactivate Slide Text
+* ADDED: Submenu Arrow
+* CHANGE: Slide Priority
+* CHANGE: Submenu Position Right
+* FIXED: Issue - Visual Editor
+
+= Version 1.0.1 =
+* Initial release

@@ -1,0 +1,434 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Seos White\n"
+"POT-Creation-Date: 2018-03-09 04:28+0200\n"
+"PO-Revision-Date: 2018-03-09 04:28+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:15
+msgid "404 - Page not found"
+msgstr ""
+
+#: 404.php:17
+msgid ""
+"It seems we cannot find what you are looking for? Perhaps try searching."
+msgstr ""
+
+#: category.php:17 full-width.php:46 home.php:50 index.php:13 page.php:19
+#: single.php:13
+msgid "Edit"
+msgstr ""
+
+#: comments.php:13
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments.php:22
+msgid "No Comment"
+msgstr ""
+
+#: comments.php:22
+msgid "One Comment"
+msgstr ""
+
+#: comments.php:22
+msgid "% Comments"
+msgstr ""
+
+#: comments.php:22
+msgid " so far:"
+msgstr ""
+
+#: comments.php:38
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:10
+msgid "All rights reserved"
+msgstr ""
+
+#: footer.php:12
+msgid "WordPress"
+msgstr ""
+
+#: footer.php:12
+#, php-format
+msgid "Powered by %s"
+msgstr ""
+
+#: footer.php:14
+msgid "Seos free wordpress themes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+#: footer.php:14
+msgid "http://seosthemes.com/"
+msgstr ""
+
+#: footer.php:14
+msgid "Theme by SEOS"
+msgstr ""
+
+#: functions.php:44
+msgid "left"
+msgstr ""
+
+#: functions.php:45
+msgid "This sidebar is left of content."
+msgstr ""
+
+#: functions.php:57
+msgid "Menu top"
+msgstr ""
+
+#: functions.php:139
+msgid "Hover Color"
+msgstr ""
+
+#: functions.php:154
+msgid "Header Color"
+msgstr ""
+
+#: functions.php:169
+msgid "Nav Hover Color"
+msgstr ""
+
+#: functions.php:184
+msgid "Main Background Color"
+msgstr ""
+
+#: functions.php:199
+msgid "Footer Background Color"
+msgstr ""
+
+#: functions.php:235
+msgid "Read More"
+msgstr ""
+
+#: functions.php:261 functions.php:346
+msgid "Seos White Premium"
+msgstr ""
+
+#: functions.php:262
+msgid "Preview Premium"
+msgstr ""
+
+#: functions.php:347 functions.php:378 functions.php:401 functions.php:424
+#: functions.php:447 functions.php:470 functions.php:491 functions.php:512
+#: functions.php:533 functions.php:553 functions.php:574 functions.php:595
+#: functions.php:616 functions.php:637 functions.php:658 functions.php:679
+#: functions.php:700 functions.php:720 functions.php:741 functions.php:761
+#: functions.php:782 functions.php:803 functions.php:824 functions.php:844
+#: functions.php:865 functions.php:886 functions.php:907 functions.php:928
+#: functions.php:949 functions.php:970 functions.php:991 functions.php:1012
+#: functions.php:1033 functions.php:1054 functions.php:1075 functions.php:1095
+#: functions.php:1116 functions.php:1136 functions.php:1157 functions.php:1178
+#: functions.php:1199 functions.php:1220
+msgid "\tLearn more about Seos White. "
+msgstr ""
+
+#: functions.php:354
+msgid "Preview The Theme"
+msgstr ""
+
+#: functions.php:356
+msgid ""
+"\t<a href=\"http://seosthemes.info/seos-white-free-wordpress-theme/\" target="
+"\"_blank\">Learn more about Seos White.</a> "
+msgstr ""
+
+#: functions.php:376 functions.php:389
+msgid "Home Page Slider"
+msgstr ""
+
+#: functions.php:399 functions.php:412
+msgid "Image Slider"
+msgstr ""
+
+#: functions.php:422 functions.php:435
+msgid "Theme Boxes"
+msgstr ""
+
+#: functions.php:445 functions.php:458
+msgid "Survey Feedback"
+msgstr ""
+
+#: functions.php:468 functions.php:481
+msgid "Home Page Custom Images"
+msgstr ""
+
+#: functions.php:489 functions.php:502
+msgid "SEO Options"
+msgstr ""
+
+#: functions.php:510 functions.php:523
+msgid "Copy Protection"
+msgstr ""
+
+#: functions.php:531 functions.php:544
+msgid "Antispam Login Form"
+msgstr ""
+
+#: functions.php:551 functions.php:564
+msgid "Contacts"
+msgstr ""
+
+#: functions.php:572 functions.php:585
+msgid "Sidebar Options"
+msgstr ""
+
+#: functions.php:593 functions.php:606
+msgid "Activate Options"
+msgstr ""
+
+#: functions.php:614 functions.php:627
+msgid "Header Options"
+msgstr ""
+
+#: functions.php:635 functions.php:648
+msgid "Menu Options"
+msgstr ""
+
+#: functions.php:656 functions.php:669
+msgid "Pagination  Options"
+msgstr ""
+
+#: functions.php:677 functions.php:690
+msgid "Featured Home Page"
+msgstr ""
+
+#: functions.php:698 functions.php:711
+msgid "Custom JS"
+msgstr ""
+
+#: functions.php:718 functions.php:731
+msgid "Animation"
+msgstr ""
+
+#: functions.php:739 functions.php:752
+msgid "All Google Fonts"
+msgstr ""
+
+#: functions.php:759 functions.php:772
+msgid "Banners"
+msgstr ""
+
+#: functions.php:780 functions.php:793
+msgid "About US Section"
+msgstr ""
+
+#: functions.php:801 functions.php:814
+msgid "Site Logo"
+msgstr ""
+
+#: functions.php:822 functions.php:835
+msgid "Font Sizes"
+msgstr ""
+
+#: functions.php:842 functions.php:855 inc/customizer.php:28
+msgid "Social Media"
+msgstr ""
+
+#: functions.php:863 functions.php:876
+msgid "Shortcode Scroll Animation"
+msgstr ""
+
+#: functions.php:884 functions.php:897
+msgid "Read More Button Options"
+msgstr ""
+
+#: functions.php:905 functions.php:918
+msgid "Disabel all Comments"
+msgstr ""
+
+#: functions.php:926 functions.php:939
+msgid "Entry Meta"
+msgstr ""
+
+#: functions.php:947 functions.php:960
+msgid "Hide All Titles"
+msgstr ""
+
+#: functions.php:968 functions.php:981
+msgid "Mobile Call Now"
+msgstr ""
+
+#: functions.php:989 functions.php:1002
+msgid "Testimonials Post Type"
+msgstr ""
+
+#: functions.php:1010 functions.php:1023
+msgid "WooCommerce Colors"
+msgstr ""
+
+#: functions.php:1031 functions.php:1044
+msgid "WooCommerce Options"
+msgstr ""
+
+#: functions.php:1052 functions.php:1065
+msgid "Footer  Options"
+msgstr ""
+
+#: functions.php:1073 functions.php:1086
+msgid "Back To Top Button Options"
+msgstr ""
+
+#: functions.php:1093 functions.php:1106
+msgid "Under Construction"
+msgstr ""
+
+#: functions.php:1114 functions.php:1127
+msgid "Google Verify ID"
+msgstr ""
+
+#: functions.php:1134 functions.php:1147
+msgid "Bing  Verify ID"
+msgstr ""
+
+#: functions.php:1155 functions.php:1168
+msgid "Alexa   Verify ID"
+msgstr ""
+
+#: functions.php:1176 functions.php:1189
+msgid "Pinterest Verify ID"
+msgstr ""
+
+#: functions.php:1197 functions.php:1210
+msgid "Yandex  Verify ID"
+msgstr ""
+
+#: functions.php:1218 functions.php:1231
+msgid "G+ Publisher"
+msgstr ""
+
+#: inc/customizer.php:29
+msgid "Social media buttons"
+msgstr ""
+
+#: inc/customizer.php:37
+msgid "Enter your Facebook url"
+msgstr ""
+
+#: inc/customizer.php:47
+msgid "Enter your Twitter url"
+msgstr ""
+
+#: inc/customizer.php:57
+msgid "Enter your Google+ url"
+msgstr ""
+
+#: inc/customizer.php:67
+msgid "Enter your Linkedin url"
+msgstr ""
+
+#: inc/customizer.php:85
+msgid "Home Page Slide"
+msgstr ""
+
+#: inc/customizer.php:86
+msgid ""
+"Post your featured Text and IMG. Slide will appear only on your home page. "
+"Your theme recommends size of 1300 X 500 pixels."
+msgstr ""
+
+#. Theme Name of the plugin/theme
+#: inc/customizer.php:91 inc/customizer.php:96
+msgid "Seos White"
+msgstr ""
+
+#: inc/customizer.php:101
+msgid "Activate Title."
+msgstr ""
+
+#: inc/customizer.php:116
+msgid "Your Slide Title Text:"
+msgstr ""
+
+#: inc/customizer.php:131
+msgid "Your IMG Upload:"
+msgstr ""
+
+#: inc/customizer.php:148 inc/customizer.php:158
+msgid "How to use Seos White Theme"
+msgstr ""
+
+#: inc/customizer.php:149
+msgid ""
+"<a class=\"button button-primary\" href=\"http://seosthemes.com/seos-white/"
+"\">How to use Seos White Theme</a>"
+msgstr ""
+
+#: search.php:39
+msgid "No results found. Try again. "
+msgstr ""
+
+#: single.php:21
+msgid "Posted by:"
+msgstr ""
+
+#: single.php:21
+msgid "on"
+msgstr ""
+
+#: single.php:25
+msgid "Category:"
+msgstr ""
+
+#: single.php:29
+msgid "<span class=\"meta-nav\">&larr;</span> previous - "
+msgstr ""
+
+#: single.php:31
+msgid "next <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: single.php:35
+msgid "Pages: "
+msgstr ""
+
+#: single.php:38
+msgid " Next"
+msgstr ""
+
+#: single.php:39
+msgid " Previous"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://seosthemes.com/seos-white/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Seos White is the 2015 HTML5 theme, white multi-purpose theme with a "
+"responsive 2 column layout. Seos White is 100% responsive built with HTML5 & "
+"CSS3, it’s SEO friendly. The theme is tested for speed there are no mistakes "
+"in the HTML code. Seos White Premium has secure and clean code. We designed "
+"it using a mobile-first approach, meaning your content takes center-stage, "
+"regardless of whether your visitors arrive by smartphone, tablet, laptop, or "
+"desktop computer. Customizer - header image, background image, background "
+"color, hover color, header color, nav hover color, main background, footer "
+"background color. Customize - social media icons, full width page, featured "
+"slide text, featured img url.To learn more about the theme please go to the "
+"theme uri and read the documentation."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "SEOS - Tsvetomir Tsvetanov"
+msgstr ""
